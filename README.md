@@ -1,1 +1,1 @@
-The repository contains projects related to the given folder names. Each folder has its own source code along with generated output report and datasets.
+Welcome to my Data Analysis Portfolio! This repository contains projects and assignments showcasing my skills in data analysis, machine learning, data visualization, time-series analysis and data mining. Each project includes source code, datasets, and detailed reports to provide a comprehensive understanding of the methodology and findings.
